@@ -1,5 +1,9 @@
-# Server-Monitor
+# Introduction
 A discord bot to monitor your server/nodes mainly for minecraft server hosts with easy installation
+
+# Commands
+ * stats 
+ * [server_name]
 
 # Screenshots
 ![Screenshot1](https://media.discordapp.net/attachments/942485982245167204/944793354707824640/unknown.png)

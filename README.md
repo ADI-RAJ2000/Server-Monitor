@@ -1,6 +1,8 @@
 # Server-Monitor
-A discord bot to monitor your server with easy installation
+A discord bot to monitor your server/nodes mainly for minecraft server hosts with easy installation
 
+# Screenshots
+![Screenshot1](https://media.discordapp.net/attachments/942485982245167204/944793354707824640/unknown.png)
 # Installation
 ```
 pip install -r requirements.txt

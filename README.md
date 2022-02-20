@@ -1,5 +1,5 @@
 # Introduction
-A discord bot to monitor your server/nodes mainly for minecraft server hosts with easy installation
+A discord bot to monitor your server/nodes with easy installation
 
 # Commands
  * stats 
